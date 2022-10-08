@@ -1,0 +1,20 @@
+body{
+    background: aliceblue;
+}
+#users{
+    display: flex;
+    flex-direction: row;
+}
+#block{
+    background: lavender;
+    border: 1px solid darkgray;
+    text-align: center;
+}
+#btn{
+    margin: auto;
+    display: block;
+}
+#success{
+    display: none;
+    text-align: center;
+}
